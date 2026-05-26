@@ -123,7 +123,7 @@ export default function AboutPage() {
                   </Button>
                 </Link>
                 <Link
-                  href="https://wa.me/919XXXXXXXXX"
+                  href="https://wa.me/917034176835"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

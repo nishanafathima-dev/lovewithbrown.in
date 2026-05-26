@@ -155,7 +155,7 @@ export default function ProductPage({
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
               <a
-                href="https://wa.me/919XXXXXXXXX"
+                href="https://wa.me/917034176835"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1"

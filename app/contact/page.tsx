@@ -27,7 +27,7 @@ export default function ContactPage() {
     e.preventDefault();
     const text = `Hi! I'm ${formState.name} (${formState.email}). ${formState.message}`;
     window.open(
-      `https://wa.me/919XXXXXXXXX?text=${encodeURIComponent(text)}`,
+      `https://wa.me/917034176835?text=${encodeURIComponent(text)}`,
       "_blank"
     );
   };
@@ -149,8 +149,8 @@ export default function ContactPage() {
                     {
                       icon: Phone,
                       label: "Phone",
-                      value: "+91 9XXXXXXXXX",
-                      href: "tel:+919XXXXXXXXX",
+                      value: "+917034176835",
+                      href: "tel:+917034176835",
                     },
                     {
                       icon: Mail,
@@ -201,7 +201,7 @@ export default function ContactPage() {
                   { icon: "facebook", href: "https://facebook.com", label: "Facebook" },
                     {
                       icon: MessageCircle,
-                      href: "https://wa.me/919XXXXXXXXX",
+                      href: "https://wa.me/917034176835",
                       label: "WhatsApp",
                     },
                   ].map((social) => (
