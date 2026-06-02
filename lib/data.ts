@@ -181,14 +181,7 @@ export const categories: Category[] = [
 ];
 
 export const testimonials: Testimonial[] = [
-  {
-    id: "1",
-    name: "Priya Sharma",
-    text: "The pencil portrait of my parents was the most emotional gift I've ever given. The details were incredible and my parents cried tears of joy!",
-    rating: 5,
-    image: "/placeholder.svg",
-    occasion: "Parents Anniversary",
-  },
+ 
   {
     id: "2",
     name: "Rahul Verma",
